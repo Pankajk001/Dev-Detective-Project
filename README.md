@@ -51,9 +51,6 @@ We welcome contributions to improve Dev Detective. Feel free to open issues, sub
 
 - [GitHub API](https://developer.github.com/v3/): The project relies on the GitHub API for retrieving user data and repositories.
 
-## Contact
-
-If you have any questions or feedback, please feel free to [contact us](mailto:your.email@example.com).
 
 ---
 
