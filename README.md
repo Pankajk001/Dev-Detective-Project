@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
 
 ## Contributing
 
-We welcome contributions to improve Dev Detective. Feel free to open issues, submit pull requests, or suggest new features.
+I welcome contributions to improve Dev Detective. Feel free to open issues, submit pull requests, or suggest new features.
 
 1. Fork the repository.
 
